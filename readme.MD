@@ -17,7 +17,7 @@ Solução do desafio backend da [BossaBox](https://bossabox.notion.site/Back-end
 
 - Clonar repositório git
 ```
-git clone git@github.com:igorbarret0/bossaBoxChallenge
+git clone git@github.com:igorbarret0/bossaBoxChallenge.git
 ```
 
 - Construir o projeto:
